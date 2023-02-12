@@ -31,3 +31,6 @@ Working on this project was a great learning experience for me. I had the opport
 - GUI development using JavaFX and the Scene Builder tool.
 ## Conclusion
 I hope you enjoy playing this Arkanoid game as much as I enjoyed developing it. If you have any questions or feedback, please feel free to reach out to me. Thank you for checking out my project!
+
+![Java Arkanoid Game Screenshot](levels.png)
+
