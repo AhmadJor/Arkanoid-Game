@@ -1,4 +1,5 @@
-#Java Arkanoid Game
+# Java Arkanoid Game
+
 A fun and engaging Arkanoid game developed using Java, OOP principles, design patterns, and a GUI.
 
 ## Getting Started
