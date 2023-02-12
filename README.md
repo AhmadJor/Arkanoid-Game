@@ -15,8 +15,8 @@ You can download the code from this repository by clicking the "Clone or downloa
 ## Running the Game
 ### Using Ant
 If you have Ant installed, you can run the game from the command line by navigating to the project directory and typing the following command:
-``` $ant run
-Using an IDE
+``` $ant run ```
+### Using an IDE
 If you prefer to use an IDE, you can open the project in IntelliJ IDEA or Eclipse and run the game from there. To do this, you need to import the project into the IDE and then run the Main class.
 
 ## How to Play
